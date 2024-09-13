@@ -1,0 +1,38 @@
+running egg_info
+creating build/locomotion/locomotion.egg-info
+writing build/locomotion/locomotion.egg-info/PKG-INFO
+writing dependency_links to build/locomotion/locomotion.egg-info/dependency_links.txt
+writing entry points to build/locomotion/locomotion.egg-info/entry_points.txt
+writing requirements to build/locomotion/locomotion.egg-info/requires.txt
+writing top-level names to build/locomotion/locomotion.egg-info/top_level.txt
+writing manifest file 'build/locomotion/locomotion.egg-info/SOURCES.txt'
+reading manifest file 'build/locomotion/locomotion.egg-info/SOURCES.txt'
+writing manifest file 'build/locomotion/locomotion.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build
+creating /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build/lib
+creating /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build/lib/locomotion
+copying locomotion/holonomic.py -> /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build/lib/locomotion
+copying locomotion/yolo_detect.py -> /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build/lib/locomotion
+copying locomotion/__init__.py -> /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build/lib/locomotion
+running install
+running install_lib
+creating /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/python3.10/site-packages/locomotion
+copying /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build/lib/locomotion/holonomic.py -> /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/python3.10/site-packages/locomotion
+copying /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build/lib/locomotion/yolo_detect.py -> /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/python3.10/site-packages/locomotion
+copying /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build/lib/locomotion/__init__.py -> /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/python3.10/site-packages/locomotion
+byte-compiling /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/python3.10/site-packages/locomotion/holonomic.py to holonomic.cpython-310.pyc
+byte-compiling /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/python3.10/site-packages/locomotion/yolo_detect.py to yolo_detect.cpython-310.pyc
+byte-compiling /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/python3.10/site-packages/locomotion/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/share/ament_index
+creating /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/share/ament_index/resource_index
+creating /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/share/ament_index/resource_index/packages
+copying resource/locomotion -> /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/share/ament_index/resource_index/packages
+copying package.xml -> /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/share/locomotion
+running install_egg_info
+Copying build/locomotion/locomotion.egg-info to /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/python3.10/site-packages/locomotion-0.0.0-py3.10.egg-info
+running install_scripts
+Installing loco script to /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/locomotion
+writing list of installed files to '/home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/install.log'

@@ -1,0 +1,40 @@
+[0.645s] Invoking command in '/home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion': PYTHONPATH=/home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/prefix_override:/home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/locomotion build --build-base /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build install --record /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/install.log --single-version-externally-managed install_data
+[0.843s] running egg_info
+[0.844s] creating build/locomotion/locomotion.egg-info
+[0.856s] writing build/locomotion/locomotion.egg-info/PKG-INFO
+[0.857s] writing dependency_links to build/locomotion/locomotion.egg-info/dependency_links.txt
+[0.857s] writing entry points to build/locomotion/locomotion.egg-info/entry_points.txt
+[0.858s] writing requirements to build/locomotion/locomotion.egg-info/requires.txt
+[0.858s] writing top-level names to build/locomotion/locomotion.egg-info/top_level.txt
+[0.858s] writing manifest file 'build/locomotion/locomotion.egg-info/SOURCES.txt'
+[0.886s] reading manifest file 'build/locomotion/locomotion.egg-info/SOURCES.txt'
+[0.887s] writing manifest file 'build/locomotion/locomotion.egg-info/SOURCES.txt'
+[0.887s] running build
+[0.887s] running build_py
+[0.888s] creating /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build
+[0.888s] creating /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build/lib
+[0.888s] creating /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build/lib/locomotion
+[0.888s] copying locomotion/holonomic.py -> /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build/lib/locomotion
+[0.888s] copying locomotion/yolo_detect.py -> /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build/lib/locomotion
+[0.889s] copying locomotion/__init__.py -> /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build/lib/locomotion
+[0.889s] running install
+[0.893s] running install_lib
+[0.907s] creating /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/python3.10/site-packages/locomotion
+[0.907s] copying /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build/lib/locomotion/holonomic.py -> /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/python3.10/site-packages/locomotion
+[0.907s] copying /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build/lib/locomotion/yolo_detect.py -> /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/python3.10/site-packages/locomotion
+[0.908s] copying /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build/lib/locomotion/__init__.py -> /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/python3.10/site-packages/locomotion
+[0.909s] byte-compiling /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/python3.10/site-packages/locomotion/holonomic.py to holonomic.cpython-310.pyc
+[0.910s] byte-compiling /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/python3.10/site-packages/locomotion/yolo_detect.py to yolo_detect.cpython-310.pyc
+[0.910s] byte-compiling /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/python3.10/site-packages/locomotion/__init__.py to __init__.cpython-310.pyc
+[0.911s] running install_data
+[0.911s] creating /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/share/ament_index
+[0.911s] creating /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/share/ament_index/resource_index
+[0.911s] creating /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/share/ament_index/resource_index/packages
+[0.912s] copying resource/locomotion -> /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/share/ament_index/resource_index/packages
+[0.912s] copying package.xml -> /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/share/locomotion
+[0.912s] running install_egg_info
+[0.929s] Copying build/locomotion/locomotion.egg-info to /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/python3.10/site-packages/locomotion-0.0.0-py3.10.egg-info
+[0.932s] running install_scripts
+[1.049s] Installing loco script to /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/locomotion
+[1.049s] writing list of installed files to '/home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/install.log'
+[1.072s] Invoked command in '/home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion' returned '0': PYTHONPATH=/home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/prefix_override:/home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/install/locomotion/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/locomotion build --build-base /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/build install --record /home/evoprime/Athena/PROJ/RIG/sip_ws/src/locomotion/build/locomotion/install.log --single-version-externally-managed install_data
